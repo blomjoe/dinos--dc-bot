@@ -26,7 +26,6 @@ Usage:
 5. save, run and enjoy
 
 Example below:
-//////////////////////////////////////////////////////
+
 DISCORD_TOKEN=OTYxNzk2Mjxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 api_key=febe8f629f51dadxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-//////////////////////////////////////////////////////
